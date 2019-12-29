@@ -1,0 +1,34 @@
+#header {
+    position: absolute;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid black;
+}
+
+#header ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.search-bar img {
+    height: 30px;
+    padding-right: 40px;
+}
+
+.search-bar input {
+    padding-top: 6px;
+    border-radius: 50px;
+    line-height:2em;
+    text-align: left;
+    display: inline;
+}
+
+#services ul li {
+    display: inline-block;
+    top: 20px;
+    right: 15px;
+    
+}
